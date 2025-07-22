@@ -1,0 +1,260 @@
+{
+    "characterName" : "",
+    "characterClass" : "",
+    "Background" : "",
+    "playerName" : "",
+    "race" : "",
+    "alignment" : "",
+    "experiencePoints" : 0,
+    "age" : 0,
+    "height" : {
+        "feet" : 0,
+        "inches" : 0
+    },
+    "weight" : 0,
+    "eyes" : "",
+    "skin" : "",
+    "hair" : "",
+    "stats" : {
+        "strength" : {
+            "score" : 0,
+            "modifier" : 0
+        },
+        "dexterity" : {
+            "score" : 0,
+            "modifier" : 0
+        },
+        "constitution" : {
+            "score" : 0,
+            "modifier" : 0
+        },
+        "intelligence" : {
+            "score" : 0,
+            "modifier" : 0
+        },
+        "wisdom" : {
+            "score" : 0,
+            "modifier" : 0
+        },
+        "charisma" : {
+            "score" : 0,
+            "modifier" : 0
+        }
+    },
+    "passiveWisdom" : 0,
+    "inspiration" : false,
+    "proficiencyBonus" : 0,
+    "otherProficiencies" : [
+        {
+            "type" : "",
+            "name" : ""
+        }
+    ],
+    "savingThrows" : {
+        "strength" : {
+            "proficiency" : false,
+            "bonus" : 0
+        },
+        "dexterity" : {
+            "proficiency" : false,
+            "bonus" : 0
+        },
+        "constitution" : {
+            "proficiency" : false,
+            "bonus" : 0
+        },
+        "intelligence" : {
+            "proficiency" : false,
+            "bonus" : 0
+        },
+        "wisdom" : {
+            "proficiency" : false,
+            "bonus" : 0
+        },
+        "charisma" : {
+            "proficiency" : false,
+            "bonus" : 0
+        }
+    },
+    "skills" : {
+        "acrobatics" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "animalHandling" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "arcana" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "history" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "deception" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "insight" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "intimidation" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "investigation" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "medicine" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "nature" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "perception" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "performance" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "persuasion" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "religion" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "sleight of Hand" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "stealth" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        },
+        "survival" : {
+            "proficiency" : false,
+            "expertise" : false,
+            "bonus" : 0
+        }
+    },
+    "armorClass" : null,
+    "initiative" : null,
+    "speed" : 0,
+    "hitPoints" : {
+        "max" : 0,
+        "current" : 0,
+        "temporary" : 0
+    },
+    "hitDice" : {
+        "total" : 0,
+        "current" : 0
+    },
+    "currency" : {
+        "cp" : 0,
+        "sp" : 0,
+        "ep" : 0,
+        "gp" : 0,
+        "pp" : 0
+    },
+    "equipment" : [
+        {
+            "type" : "",
+            "name" : "",
+            "weight" : 0,
+            "count" : 0
+        }
+    ],
+    "personalityTraits" : [],
+    "ideals" : [],
+    "bonds" : [],
+    "flaws" : [],
+    "attacks" : [
+        {
+            "type" : "",
+            "damageType" : "",
+            "damage" : "",
+            "toHitModifier" : 0,
+            "range" : 0
+        }
+    ],
+    "featuresAndTraits" : [
+        {
+            "name" : "",
+            "description" : ""
+        }
+    ],
+    "spellcastingClass" : "",
+    "spellcasting" : {
+        "ability" : "",
+        "saveDC" : 0,
+        "atkBonus" : 0
+    },
+    "magic" : {
+        "cantrips" : [
+            {
+                "name" : "",
+                "verbal" : false,
+                "somatic" : false,
+                "material" : "",
+                "description" : "",
+                "damage" : "",
+                "damageType" : "",
+                "prepared" : false,
+                "range" : "",
+                "school" : "",
+                "duration" : "",
+                "castingTime" : ""
+            }
+        ], 
+        "spells" : [
+            {
+                "name" : "",
+                "level" : "",
+                "verbal" : false,
+                "somatic" : false,
+                "material" : "",
+                "description" : "",
+                "damage" : "",
+                "damageType" : "",
+                "prepared" : false,
+                "range" : "",
+                "school" : "",
+                "duration" : "",
+                "castingTime" : ""
+            }
+        ],
+        "spellSlots" : [
+            {
+                "level" : 0,
+                "total" : 0,
+                "remaining" : 0
+            }
+        ]
+    }
+}
