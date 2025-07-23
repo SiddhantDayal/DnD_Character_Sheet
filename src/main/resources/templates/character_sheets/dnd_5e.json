@@ -198,7 +198,13 @@
         {
             "type" : "",
             "damageType" : "",
-            "damage" : "",
+            "damage" : [
+                {
+                    "dice" : 0,
+                    "number" : 0,
+                    "damageType" : ""
+                }
+            ],
             "toHitModifier" : 0,
             "range" : 0
         }
@@ -240,7 +246,13 @@
                 "somatic" : false,
                 "material" : "",
                 "description" : "",
-                "damage" : "",
+                "damage" : [
+                    {
+                        "dice" : 0,
+                        "number" : 0,
+                        "damageType" : ""
+                    }
+                ],
                 "damageType" : "",
                 "prepared" : false,
                 "range" : "",
